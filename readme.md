@@ -27,3 +27,4 @@ Kopf
 ```
 http://DOCKER_HOST:9292/_plugin/kopf
 ```
+
